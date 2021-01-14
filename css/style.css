@@ -1,0 +1,42 @@
+html{
+    position: relative;
+
+}
+
+body{
+    margin-bottom: 100px;  
+}
+.jumbotron img {
+    width: 200px;
+    border: 10px solid cadetblue;
+    background-color: wheat;
+}
+
+hr {
+    width: 200px;
+    border: 4px solid cadetblue;
+}
+
+section {
+    min-width: 300px;
+}
+
+.portofolio {
+    background-color: white;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: cadetblue;
+    color:white;
+    padding-top: 30px;
+    
+}
+
+footer p{
+    font-size: 1em;
+}
